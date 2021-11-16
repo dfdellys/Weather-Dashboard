@@ -8,4 +8,5 @@ This is a weather application that features dynamically updated HTML and CSS. Op
 * https://github.com/dfdellys/Weather-Dashboard
 
 ## Screenshot
-![Screenshot (15)](https://user-images.githubusercontent.com/73720274/139152734-b3ccebe9-8eae-476b-ab3a-2d1bd4530fbd.png)
+
+![weather](https://user-images.githubusercontent.com/73720274/141911413-f3d90348-dec8-4ccd-b45c-e574182c99c3.png)
